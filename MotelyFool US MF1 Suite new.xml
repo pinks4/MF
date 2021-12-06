@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool US MF1 Suite">
+  <test verbose="2" name="MF1 Everlasting Column Header Verification">
+    <classes>
+      <class name="com.fool.us.evlstks.Evelststks" />
+    </classes>
+  </test>
+  <test verbose="2" name="IQ Screener Verifiction Suite">
+    <classes>
+      <class name="com.fool.us.IQScreener.IQScreener" />
+    </classes>
+  </test>
+<test verbose="2" name="IQ Screener Filter Verifiction Suite">
+    <classes>
+      <class name="com.fool.us.IQScreener.IQScreenerFilter" />
+    </classes>
+  </test>
+
+ </suite>
+  
+  
+  

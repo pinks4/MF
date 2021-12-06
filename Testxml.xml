@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+  <test verbose="2" name="MotelyFool create Test">
+    <classes>
+      <class name="com.fool.sg.createpost.CreatePost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Edit">
+    <classes>
+      <class name="com.fool.sg.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Delete">
+    <classes>
+      <class name="com.fool.sg.deletepost.DeletePost" />
+    </classes>
+  </test>  
+  
+</suite>
+  
+  
+  

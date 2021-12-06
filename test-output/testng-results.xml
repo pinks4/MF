@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="11" total="33" passed="22">
+  <reporter-output>
+    <line>
+      <![CDATA[Motely Fool Australia Article posted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Australia Article is Edited successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Australia Article Deletion Verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » All Coverage Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » All Coverage Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Updates Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Updates Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Recommendations Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Trade Alerts Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Multimedia Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Multimedia Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Portfolio Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Portfolio Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Forums Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Forums Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Topics Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Topics Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Forum: General Investing Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[General Investing Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Forum: Foolish Banter! Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Foolish Banter Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Forum: Help Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Help Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Guidebook Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Guidebook Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Getting Started With Pro Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Getting Started With Pro Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Pro Philosophy Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Pro Philosophy Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » Meet the Team Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Meet the Team Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Pro » FAQ Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[FAQ Page Header Verified]]>
+    </line>
+    <line>
+      <![CDATA[Au Pro Search Field Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Hidden Gems Recommendations Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Hidden Gems Updates Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Hidden Gems Scorecard Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Recommendations Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » All Share Advisor Coverage Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Share Advisor Updates Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Best Buys Now Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Stocks On Our Radar Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Multi-media Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Income Extra Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » 10% Promise Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » How To Invest Foolishly Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » New Member Centre Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Frequently Asked Questions Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Share Advisor Scorecard Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Forums Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Forum: General Investing Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Forum: Foolish Banter! Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor » Forum: Account / Site Help Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Manage Account | Motley Fool Australia Page Title Verified]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Australia Special Report Ecap Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Share Advisor Account Creation Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Canada Article posted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Canada Article Deletion Verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Canada Home Ecap Test Failed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Ecap Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Frequently Asked Questions Ecap Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Frequently Asked Questions Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Special Reports Centre Ecap Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Special Reports Centre Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Your Account Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Login not happend for Website]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Stock Advisor Account Creation Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Singapore Article posted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Singapore Article post verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Singapore Article Edit Verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motely Fool Singapore Article Deletion Verified successfully]]>
+    </line>
+    <line>
+      <![CDATA[Motley Fool Singapore Home Ecap Test Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="MotelyFool TestSuite" duration-ms="1870804" started-at="2017-02-22T12:03:53Z" finished-at="2017-02-22T12:35:04Z">
+    <groups>
+    </groups>
+    <test name="MotelyFool Australia Create and Verify New Post Test" duration-ms="150689" started-at="2017-02-22T12:03:53Z" finished-at="2017-02-22T12:06:24Z">
+      <class name="com.fool.au.createpost.CreatePost">
+        <test-method status="PASS" signature="loginFool()[pri:0, instance:com.fool.au.createpost.CreatePost@1fbc7afb]" name="loginFool" is-config="true" duration-ms="47896" started-at="2017-02-22T20:03:53Z" finished-at="2017-02-22T20:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFool -->
+        <test-method status="FAIL" signature="messagePost()[pri:0, instance:com.fool.au.createpost.CreatePost@1fbc7afb]" name="messagePost" duration-ms="102787" started-at="2017-02-22T20:04:41Z" finished-at="2017-02-22T20:06:24Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='MotelyEdited']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='MotelyEdited']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.fool.pageobject.PageObjectModule.sync(PageObjectModule.java:89)
+	at com.fool.au.createpost.CreatePost.messagePost(CreatePost.java:134)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='MotelyEdited']"}
+Command duration or timeout: 5 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 498a6756-6acf-44cc-a0d0-6b240be9f7e4
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:579)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:577)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 26 more
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//a[text()='MotelyEdited']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1312585041699480686webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1312585041699480686webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1312585041699480686webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1312585041699480686webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1312585041699480686webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Australia Article posted successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- messagePost -->
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+    </test> <!-- MotelyFool Australia Create and Verify New Post Test -->
+    <test name="MotelyFool Australia Edit and Verify Post Test" duration-ms="120513" started-at="2017-02-22T12:06:24Z" finished-at="2017-02-22T12:08:25Z">
+      <class name="com.fool.au.editpost.EditPost">
+        <test-method status="PASS" signature="loginFool()[pri:0, instance:com.fool.au.editpost.EditPost@34ce8af7]" name="loginFool" is-config="true" duration-ms="21700" started-at="2017-02-22T20:06:24Z" finished-at="2017-02-22T20:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFool -->
+        <test-method status="FAIL" signature="editingPost()[pri:0, instance:com.fool.au.editpost.EditPost@34ce8af7]" name="editingPost" duration-ms="98812" started-at="2017-02-22T20:06:46Z" finished-at="2017-02-22T20:08:25Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='TestingMotely']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='TestingMotely']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.fool.pageobject.PageObjectModule.sync(PageObjectModule.java:89)
+	at com.fool.au.editpost.EditPost.editingPost(EditPost.java:131)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='TestingMotely']"}
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3d97a1b4-8836-4e66-97e2-b8871e248400
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:579)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:577)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 26 more
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//a[text()='TestingMotely']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous7749373095288952984webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous7749373095288952984webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous7749373095288952984webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous7749373095288952984webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous7749373095288952984webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Australia Article is Edited successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editingPost -->
+      </class> <!-- com.fool.au.editpost.EditPost -->
+    </test> <!-- MotelyFool Australia Edit and Verify Post Test -->
+    <test name="MotelyFool Australia Delete and Verify Post Test" duration-ms="50447" started-at="2017-02-22T12:08:25Z" finished-at="2017-02-22T12:09:15Z">
+      <class name="com.fool.au.deletepost.DeletePost">
+        <test-method status="PASS" signature="loginFool()[pri:0, instance:com.fool.au.deletepost.DeletePost@340f438e]" name="loginFool" is-config="true" duration-ms="21598" started-at="2017-02-22T20:08:25Z" finished-at="2017-02-22T20:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFool -->
+        <test-method status="PASS" signature="deleteCreatedPost()[pri:0, instance:com.fool.au.deletepost.DeletePost@340f438e]" name="deleteCreatedPost" duration-ms="28848" started-at="2017-02-22T20:08:46Z" finished-at="2017-02-22T20:09:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Australia Article Deletion Verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedPost -->
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </test> <!-- MotelyFool Australia Delete and Verify Post Test -->
+    <test name="MotelyFool Australia ProTest" duration-ms="156014" started-at="2017-02-22T12:09:15Z" finished-at="2017-02-22T12:11:51Z">
+      <class name="com.fool.au.pro.AuPro">
+        <test-method status="PASS" signature="emailAuPro()[pri:0, instance:com.fool.au.pro.AuPro@59a6e353]" name="emailAuPro" duration-ms="156014" started-at="2017-02-22T20:09:15Z" finished-at="2017-02-22T20:11:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Pro Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » All Coverage Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » All Coverage Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Updates Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Updates Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Recommendations Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Trade Alerts Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Multimedia Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Multimedia Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Portfolio Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Portfolio Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Forums Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Forums Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Topics Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Topics Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Forum: General Investing Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[General Investing Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Forum: Foolish Banter! Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Foolish Banter Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Forum: Help Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Help Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Guidebook Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Guidebook Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Getting Started With Pro Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Getting Started With Pro Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Pro Philosophy Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Pro Philosophy Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » Meet the Team Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Meet the Team Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Pro » FAQ Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[FAQ Page Header Verified]]>
+            </line>
+            <line>
+              <![CDATA[Au Pro Search Field Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailAuPro -->
+      </class> <!-- com.fool.au.pro.AuPro -->
+    </test> <!-- MotelyFool Australia ProTest -->
+    <test name="MotelyFool Australia Hidden GemsTest" duration-ms="48342" started-at="2017-02-22T12:11:51Z" finished-at="2017-02-22T12:12:39Z">
+      <class name="com.fool.au.hiddengems.HiddenGems">
+        <test-method status="PASS" signature="hiddenGemsHome()[pri:0, instance:com.fool.au.hiddengems.HiddenGems@506e6d5e]" name="hiddenGemsHome" duration-ms="48342" started-at="2017-02-22T20:11:51Z" finished-at="2017-02-22T20:12:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Hidden Gems Recommendations Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Hidden Gems Updates Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Hidden Gems Scorecard Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hiddenGemsHome -->
+      </class> <!-- com.fool.au.hiddengems.HiddenGems -->
+    </test> <!-- MotelyFool Australia Hidden GemsTest -->
+    <test name="MotelyFool Australia Share AdvisorTest" duration-ms="91687" started-at="2017-02-22T12:12:39Z" finished-at="2017-02-22T12:14:11Z">
+      <class name="com.fool.au.shareadvisor.Shareadvisornew">
+        <test-method status="PASS" signature="AUShareadvisorHome()[pri:0, instance:com.fool.au.shareadvisor.Shareadvisornew@7f690630]" name="AUShareadvisorHome" duration-ms="24164" started-at="2017-02-22T20:12:39Z" finished-at="2017-02-22T20:13:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor Page Title Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AUShareadvisorHome -->
+        <test-method status="PASS" signature="AUShareadvisorREC()[pri:0, instance:com.fool.au.shareadvisor.Shareadvisornew@7f690630]" name="AUShareadvisorREC" duration-ms="3357" started-at="2017-02-22T20:13:04Z" finished-at="2017-02-22T20:13:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Recommendations Page Title Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AUShareadvisorREC -->
+        <test-method status="PASS" signature="AUShareadvisorUPD()[pri:0, instance:com.fool.au.shareadvisor.Shareadvisornew@7f690630]" name="AUShareadvisorUPD" duration-ms="34276" started-at="2017-02-22T20:13:07Z" finished-at="2017-02-22T20:13:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » All Share Advisor Coverage Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Share Advisor Updates Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Best Buys Now Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Stocks On Our Radar Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Multi-media Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Income Extra Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » 10% Promise Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » How To Invest Foolishly Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » New Member Centre Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Frequently Asked Questions Page Title Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AUShareadvisorUPD -->
+        <test-method status="PASS" signature="AUShareadvisorSCR()[pri:0, instance:com.fool.au.shareadvisor.Shareadvisornew@7f690630]" name="AUShareadvisorSCR" duration-ms="3289" started-at="2017-02-22T20:13:41Z" finished-at="2017-02-22T20:13:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Share Advisor Scorecard Page Title Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AUShareadvisorSCR -->
+        <test-method status="PASS" signature="AUShareadvisorFRM()[pri:0, instance:com.fool.au.shareadvisor.Shareadvisornew@7f690630]" name="AUShareadvisorFRM" duration-ms="26601" started-at="2017-02-22T20:13:44Z" finished-at="2017-02-22T20:14:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Forums Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Forum: General Investing Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Forum: Foolish Banter! Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Share Advisor » Forum: Account / Site Help Page Title Verified]]>
+            </line>
+            <line>
+              <![CDATA[Manage Account | Motley Fool Australia Page Title Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AUShareadvisorFRM -->
+      </class> <!-- com.fool.au.shareadvisor.Shareadvisornew -->
+    </test> <!-- MotelyFool Australia Share AdvisorTest -->
+    <test name="MotelyFool Australia Ecap Test" duration-ms="59672" started-at="2017-02-22T12:14:11Z" finished-at="2017-02-22T12:15:11Z">
+      <class name="com.fool.au.ecap.EmailCap">
+        <test-method status="FAIL" signature="emailCapAUHomepage()[pri:0, instance:com.fool.au.ecap.EmailCap@22f71333]" name="emailCapAUHomepage" duration-ms="45688" started-at="2017-02-22T20:14:11Z" finished-at="2017-02-22T20:14:57Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h2[text()='The Motley Fool’s Top Stock for 2016']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: //h2[text()='The Motley Fool’s Top Stock for 2016']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.fool.pageobject.PageObjectModule.sync(PageObjectModule.java:89)
+	at com.fool.au.ecap.EmailCap.emailCapAUHomepage(EmailCap.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h2[text()='The Motley Fool’s Top Stock for 2016']"}
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e456ce0-5469-4109-8a60-f6b68a235f18
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:579)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:577)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 26 more
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//h2[text()='The Motley Fool’s Top Stock for 2016']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous2252150047517001642webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous2252150047517001642webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous2252150047517001642webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous2252150047517001642webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous2252150047517001642webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCapAUHomepage -->
+        <test-method status="PASS" signature="emailCapAUSplRep()[pri:0, instance:com.fool.au.ecap.EmailCap@22f71333]" name="emailCapAUSplRep" duration-ms="13984" started-at="2017-02-22T20:14:57Z" finished-at="2017-02-22T20:15:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Australia Special Report Ecap Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapAUSplRep -->
+      </class> <!-- com.fool.au.ecap.EmailCap -->
+    </test> <!-- MotelyFool Australia Ecap Test -->
+    <test name="MotelyFool AU Create order" duration-ms="158624" started-at="2017-02-22T12:15:11Z" finished-at="2017-02-22T12:17:49Z">
+      <class name="com.fool.au.order.Createorder">
+        <test-method status="PASS" signature="auordercreate()[pri:0, instance:com.fool.au.order.Createorder@380fb434]" name="auordercreate" duration-ms="158624" started-at="2017-02-22T20:15:11Z" finished-at="2017-02-22T20:17:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Share Advisor Account Creation Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- auordercreate -->
+      </class> <!-- com.fool.au.order.Createorder -->
+    </test> <!-- MotelyFool AU Create order -->
+    <test name="MotelyFool Canada Create and Verify New Post Test" duration-ms="101957" started-at="2017-02-22T12:17:49Z" finished-at="2017-02-22T12:19:31Z">
+      <class name="com.fool.ca.createpost.CreatePost">
+        <test-method status="FAIL" signature="messagePost()[pri:0, instance:com.fool.ca.createpost.CreatePost@73f792cf]" name="messagePost" duration-ms="101955" started-at="2017-02-22T20:17:49Z" finished-at="2017-02-22T20:19:31Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='MotelyEdited']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()='MotelyEdited']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.fool.pageobject.PageObjectModule.sync(PageObjectModule.java:89)
+	at com.fool.ca.createpost.CreatePost.messagePost(CreatePost.java:130)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='MotelyEdited']"}
+Command duration or timeout: 5 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 17457d6b-e1e0-4a8d-ae7c-84a3316731d8
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:579)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:577)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 26 more
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//a[text()='MotelyEdited']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous805176209671216252webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous805176209671216252webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous805176209671216252webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous805176209671216252webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous805176209671216252webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Canada Article posted successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- messagePost -->
+      </class> <!-- com.fool.ca.createpost.CreatePost -->
+    </test> <!-- MotelyFool Canada Create and Verify New Post Test -->
+    <test name="MotelyFool Canada Edit and Verify Post Test" duration-ms="116776" started-at="2017-02-22T12:19:31Z" finished-at="2017-02-22T12:21:28Z">
+      <class name="com.fool.ca.editpost.EditPost">
+        <test-method status="PASS" signature="editingCreatedPost()[pri:0, instance:com.fool.ca.editpost.EditPost@64616ca2]" name="editingCreatedPost" duration-ms="116775" started-at="2017-02-22T20:19:31Z" finished-at="2017-02-22T20:21:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editingCreatedPost -->
+      </class> <!-- com.fool.ca.editpost.EditPost -->
+    </test> <!-- MotelyFool Canada Edit and Verify Post Test -->
+    <test name="MotelyFool Canada Delete and Verify Post Test" duration-ms="53382" started-at="2017-02-22T12:21:28Z" finished-at="2017-02-22T12:22:22Z">
+      <class name="com.fool.ca.deletepost.DeletePost">
+        <test-method status="PASS" signature="deleteCreatedPost()[pri:0, instance:com.fool.ca.deletepost.DeletePost@2c6a3f77]" name="deleteCreatedPost" duration-ms="53382" started-at="2017-02-22T20:21:28Z" finished-at="2017-02-22T20:22:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Canada Article Deletion Verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedPost -->
+      </class> <!-- com.fool.ca.deletepost.DeletePost -->
+    </test> <!-- MotelyFool Canada Delete and Verify Post Test -->
+    <test name="MotelyFool Canada Ecap Test" duration-ms="25847" started-at="2017-02-22T12:22:22Z" finished-at="2017-02-22T12:22:47Z">
+      <class name="com.fool.ca.ecap.EmailCap">
+        <test-method status="FAIL" signature="emailCapCAHome()[pri:0, instance:com.fool.ca.ecap.EmailCap@3f2a3a5]" name="emailCapCAHome" duration-ms="19089" started-at="2017-02-22T20:22:22Z" finished-at="2017-02-22T20:22:41Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at com.fool.ca.ecap.EmailCap.emailCapCAHome(EmailCap.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Canada Home Ecap Test Failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAHome -->
+        <test-method status="FAIL" signature="emailCapCAsplrep()[pri:0, instance:com.fool.ca.ecap.EmailCap@3f2a3a5]" name="emailCapCAsplrep" duration-ms="6756" started-at="2017-02-22T20:22:41Z" finished-at="2017-02-22T20:22:47Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at com.fool.ca.ecap.EmailCap.emailCapCAsplrep(EmailCap.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCapCAsplrep -->
+      </class> <!-- com.fool.ca.ecap.EmailCap -->
+    </test> <!-- MotelyFool Canada Ecap Test -->
+    <test name="MotelyFool Canada Stock AdvisorTest" duration-ms="112831" started-at="2017-02-22T12:22:47Z" finished-at="2017-02-22T12:24:40Z">
+      <class name="com.fool.ca.stockdvisor.Stockadvisor">
+        <test-method status="PASS" signature="emailCapCAStockadvisor()[pri:0, instance:com.fool.ca.stockdvisor.Stockadvisor@3567135c]" name="emailCapCAStockadvisor" duration-ms="45256" started-at="2017-02-22T20:22:47Z" finished-at="2017-02-22T20:23:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Ecap Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAStockadvisor -->
+        <test-method status="PASS" signature="emailCapCAStockadvisorfaq()[pri:0, instance:com.fool.ca.stockdvisor.Stockadvisor@3567135c]" name="emailCapCAStockadvisorfaq" duration-ms="22925" started-at="2017-02-22T20:23:33Z" finished-at="2017-02-22T20:23:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Frequently Asked Questions Ecap Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Frequently Asked Questions Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAStockadvisorfaq -->
+        <test-method status="PASS" signature="emailCapCAStockadvisorsplrep()[pri:0, instance:com.fool.ca.stockdvisor.Stockadvisor@3567135c]" name="emailCapCAStockadvisorsplrep" duration-ms="22909" started-at="2017-02-22T20:23:56Z" finished-at="2017-02-22T20:24:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Special Reports Centre Ecap Test Passed]]>
+            </line>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Special Reports Centre Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAStockadvisorsplrep -->
+        <test-method status="PASS" signature="emailCapCAStockadvisoracc()[pri:0, instance:com.fool.ca.stockdvisor.Stockadvisor@3567135c]" name="emailCapCAStockadvisoracc" duration-ms="15648" started-at="2017-02-22T20:24:18Z" finished-at="2017-02-22T20:24:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Your Account Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAStockadvisoracc -->
+        <test-method status="FAIL" signature="emailCapCAStockadvisorfrm()[pri:0, instance:com.fool.ca.stockdvisor.Stockadvisor@3567135c]" name="emailCapCAStockadvisorfrm" duration-ms="6092" started-at="2017-02-22T20:24:34Z" finished-at="2017-02-22T20:24:40Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at com.fool.ca.stockdvisor.Stockadvisor.emailCapCAStockadvisorfrm(Stockadvisor.java:439)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Login not happend for Website]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapCAStockadvisorfrm -->
+      </class> <!-- com.fool.ca.stockdvisor.Stockadvisor -->
+    </test> <!-- MotelyFool Canada Stock AdvisorTest -->
+    <test name="MotelyFool Canada Create OrderTest" duration-ms="109473" started-at="2017-02-22T12:24:40Z" finished-at="2017-02-22T12:26:30Z">
+      <class name="com.fool.ca.order.Createorder">
+        <test-method status="PASS" signature="CAordercreate()[pri:0, instance:com.fool.ca.order.Createorder@6615435c]" name="CAordercreate" duration-ms="109473" started-at="2017-02-22T20:24:40Z" finished-at="2017-02-22T20:26:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Stock Advisor Account Creation Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CAordercreate -->
+      </class> <!-- com.fool.ca.order.Createorder -->
+    </test> <!-- MotelyFool Canada Create OrderTest -->
+    <test name="MotelyFool Singapore Create post Test" duration-ms="74859" started-at="2017-02-22T12:26:30Z" finished-at="2017-02-22T12:27:45Z">
+      <class name="com.fool.sg.createpost.CreatePost">
+        <test-method status="PASS" signature="messagePost()[pri:0, instance:com.fool.sg.createpost.CreatePost@366e2eef]" name="messagePost" duration-ms="74859" started-at="2017-02-22T20:26:30Z" finished-at="2017-02-22T20:27:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Singapore Article posted successfully]]>
+            </line>
+            <line>
+              <![CDATA[Motely Fool Singapore Article post verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- messagePost -->
+      </class> <!-- com.fool.sg.createpost.CreatePost -->
+    </test> <!-- MotelyFool Singapore Create post Test -->
+    <test name="MotelyFool Singapore Edit post Test" duration-ms="80187" started-at="2017-02-22T12:27:45Z" finished-at="2017-02-22T12:29:05Z">
+      <class name="com.fool.sg.editpost.EditPost">
+        <test-method status="PASS" signature="editingCreatedPost()[pri:0, instance:com.fool.sg.editpost.EditPost@3551a94]" name="editingCreatedPost" duration-ms="80187" started-at="2017-02-22T20:27:45Z" finished-at="2017-02-22T20:29:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Singapore Article Edit Verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editingCreatedPost -->
+      </class> <!-- com.fool.sg.editpost.EditPost -->
+    </test> <!-- MotelyFool Singapore Edit post Test -->
+    <test name="MotelyFool Singapore Delete post Test" duration-ms="44945" started-at="2017-02-22T12:29:05Z" finished-at="2017-02-22T12:29:50Z">
+      <class name="com.fool.sg.deletepost.DeletePost">
+        <test-method status="PASS" signature="deleteCreatedPost()[pri:0, instance:com.fool.sg.deletepost.DeletePost@737996a0]" name="deleteCreatedPost" duration-ms="44924" started-at="2017-02-22T20:29:05Z" finished-at="2017-02-22T20:29:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motely Fool Singapore Article Deletion Verified successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedPost -->
+      </class> <!-- com.fool.sg.deletepost.DeletePost -->
+    </test> <!-- MotelyFool Singapore Delete post Test -->
+    <test name="MotelyFool Singapore Ecap Test" duration-ms="16743" started-at="2017-02-22T12:29:50Z" finished-at="2017-02-22T12:30:06Z">
+      <class name="com.fool.sg.ecap.EmailCap">
+        <test-method status="PASS" signature="emailCapSGHome()[pri:0, instance:com.fool.sg.ecap.EmailCap@26f67b76]" name="emailCapSGHome" duration-ms="16743" started-at="2017-02-22T20:29:50Z" finished-at="2017-02-22T20:30:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Motley Fool Singapore Home Ecap Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emailCapSGHome -->
+      </class> <!-- com.fool.sg.ecap.EmailCap -->
+    </test> <!-- MotelyFool Singapore Ecap Test -->
+    <test name="MotelyFool Germany Ecap Test" duration-ms="43015" started-at="2017-02-22T12:30:06Z" finished-at="2017-02-22T12:30:49Z">
+      <class name="com.fool.GR.ecap.EmailCap">
+        <test-method status="FAIL" signature="emailCapGRHomepage()[pri:0, instance:com.fool.GR.ecap.EmailCap@61a485d2]" name="emailCapGRHomepage" duration-ms="43015" started-at="2017-02-22T20:30:06Z" finished-at="2017-02-22T20:30:49Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 30 seconds waiting for visibility of element located by By.xpath: //input[@id='ecap-submit']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for visibility of element located by By.xpath: //input[@id='ecap-submit']
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.fool.pageobject.PageObjectModule.sync(PageObjectModule.java:89)
+	at com.fool.GR.ecap.EmailCap.emailCapGRHomepage(EmailCap.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//input[@id='ecap-submit']"}
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9c4b6415-e4dc-4e09-b66c-79b54ed7f867
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:579)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:577)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:130)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 26 more
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//input[@id='ecap-submit']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1024976209083272546webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1024976209083272546webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1024976209083272546webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1024976209083272546webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous1024976209083272546webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCapGRHomepage -->
+      </class> <!-- com.fool.GR.ecap.EmailCap -->
+    </test> <!-- MotelyFool Germany Ecap Test -->
+    <test name="MotelyFool United Kingdom Ecap Test" duration-ms="23407" started-at="2017-02-22T12:30:49Z" finished-at="2017-02-22T12:31:13Z">
+      <class name="com.fool.UK.ecap.EmailCap">
+        <test-method status="FAIL" signature="emailCapGRHomepage()[pri:0, instance:com.fool.UK.ecap.EmailCap@32e6e9c3]" name="emailCapGRHomepage" duration-ms="23407" started-at="2017-02-22T20:30:49Z" finished-at="2017-02-22T20:31:13Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at com.fool.UK.ecap.EmailCap.emailCapGRHomepage(EmailCap.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailCapGRHomepage -->
+      </class> <!-- com.fool.UK.ecap.EmailCap -->
+    </test> <!-- MotelyFool United Kingdom Ecap Test -->
+    <test name="MotelyFool Create and Verify post Test" duration-ms="66005" started-at="2017-02-22T12:31:13Z" finished-at="2017-02-22T12:32:19Z">
+      <class name="com.fool.UK.createpost.CreatePost">
+        <test-method status="FAIL" signature="messagePost()[pri:0, instance:com.fool.UK.createpost.CreatePost@6a024a67]" name="messagePost" duration-ms="66005" started-at="2017-02-22T20:31:13Z" finished-at="2017-02-22T20:32:19Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [false] but found [true]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at com.fool.UK.createpost.CreatePost.messagePost(CreatePost.java:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messagePost -->
+      </class> <!-- com.fool.UK.createpost.CreatePost -->
+    </test> <!-- MotelyFool Create and Verify post Test -->
+    <test name="MotelyFool Edit and Verify post Test" duration-ms="125065" started-at="2017-02-22T12:32:19Z" finished-at="2017-02-22T12:34:24Z">
+      <class name="com.fool.UK.editpost.EditPost">
+        <test-method status="PASS" signature="editingCreatedPost()[pri:0, instance:com.fool.UK.editpost.EditPost@7c0e2abd]" name="editingCreatedPost" duration-ms="125065" started-at="2017-02-22T20:32:19Z" finished-at="2017-02-22T20:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editingCreatedPost -->
+      </class> <!-- com.fool.UK.editpost.EditPost -->
+    </test> <!-- MotelyFool Edit and Verify post Test -->
+    <test name="MotelyFool Delete and Verify post Test" duration-ms="40107" started-at="2017-02-22T12:34:24Z" finished-at="2017-02-22T12:35:04Z">
+      <class name="com.fool.UK.deletepost.DeletePost">
+        <test-method status="FAIL" signature="deleteCreatedPost()[pri:0, instance:com.fool.UK.deletepost.DeletePost@6d78f375]" name="deleteCreatedPost" duration-ms="40107" started-at="2017-02-22T20:34:24Z" finished-at="2017-02-22T20:35:04Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: {"method":"xpath","selector":"//a[text()='Move to Trash']"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 02dd3c3b-1a5c-49a3-b014-d4eab082d073]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Move to Trash']"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=25.0.1, platform=XP, browserConnectionEnabled=true, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 02dd3c3b-1a5c-49a3-b014-d4eab082d073
+	at sun.reflect.GeneratedConstructorAccessor35.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:191)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.fool.pageobject.PageObjectModule.clickButton(PageObjectModule.java:66)
+	at com.fool.UK.deletepost.DeletePost.deleteCreatedPost(DeletePost.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//a[text()='Move to Trash']"}
+Build info: version: '2.35.0', revision: '8df0c6b', time: '2013-08-12 15:43:19'
+System info: os.name: 'Windows Server 2012 R2', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous8211941161246806141webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8880)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous8211941161246806141webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8889)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous8211941161246806141webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10817)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous8211941161246806141webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10822)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/SHIVAK~1/AppData/Local/Temp/4/anonymous8211941161246806141webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10764)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedPost -->
+      </class> <!-- com.fool.UK.deletepost.DeletePost -->
+    </test> <!-- MotelyFool Delete and Verify post Test -->
+  </suite> <!-- MotelyFool TestSuite -->
+</testng-results>

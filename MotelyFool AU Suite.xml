@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool AU TestSuite">
+  <test verbose="2" name="MotelyFool Australia Create and Verify New Post Test">
+    <classes>
+      <class name="com.fool.au.createpost.CreatePost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Edit and Verify Post Test">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Delete and Verify Post Test">
+    <classes>
+      <class name="com.fool.au.deletepost.DeletePost" />
+    </classes>
+  </test>  
+  
+  <test verbose="2" name="MotelyFool Australia ProTest">
+    <classes>
+      <class name="com.fool.au.pro.AuPro" />
+     </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Hidden GemsTest">
+    <classes>
+      <class name="com.fool.au.hiddengems.HiddenGems" />
+    </classes>
+  </test>  
+  <test verbose="2" name="MotelyFool Australia Share AdvisorTest">
+    <classes>
+      <class name="com.fool.au.shareadvisor.Shareadvisornew" />
+    </classes>
+  </test>
+<test verbose="2" name="MotelyFool Australia Ecap Test">
+    <classes>
+      <class name="com.fool.au.ecap.EmailCap" />
+     </classes>
+  </test>
+  <test verbose="2" name="MotelyFool AU Create order">
+    <classes>
+      <class name="com.fool.au.order.Createorder" />
+    </classes>
+  </test>  
+ </suite>
+  
+  
+  

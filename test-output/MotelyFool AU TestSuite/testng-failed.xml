@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MotelyFool AU TestSuite]">
+  <test name="MotelyFool Australia Create and Verify New Post Test(failed)">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+          <include name="messagePost"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Australia Create and Verify New Post Test(failed) -->
+  <test name="MotelyFool Australia Edit and Verify Post Test(failed)">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="editingPost"/>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Australia Edit and Verify Post Test(failed) -->
+  <test name="MotelyFool AU Create order(failed)">
+    <classes>
+      <class name="com.fool.au.order.Createorder">
+        <methods>
+          <include name="auordercreate"/>
+        </methods>
+      </class> <!-- com.fool.au.order.Createorder -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool AU Create order(failed) -->
+</suite> <!-- Failed suite [MotelyFool AU TestSuite] -->

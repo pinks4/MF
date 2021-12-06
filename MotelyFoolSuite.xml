@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool TestSuite">
+  <test verbose="2" name="MotelyFool Australia Create and Verify New Post Test">
+    <classes>
+      <class name="com.fool.au.createpost.CreatePost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Edit and Verify Post Test">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Delete and Verify Post Test">
+    <classes>
+      <class name="com.fool.au.deletepost.DeletePost" />
+    </classes>
+  </test>  
+  
+  <test verbose="2" name="MotelyFool Australia ProTest">
+    <classes>
+      <class name="com.fool.au.pro.AuPro" />
+     </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Australia Hidden GemsTest">
+    <classes>
+      <class name="com.fool.au.hiddengems.HiddenGems" />
+    </classes>
+  </test>  
+  <test verbose="2" name="MotelyFool Australia Share AdvisorTest">
+    <classes>
+      <class name="com.fool.au.shareadvisor.Shareadvisornew" />
+    </classes>
+  </test>
+<test verbose="2" name="MotelyFool Australia Ecap Test">
+    <classes>
+      <class name="com.fool.au.ecap.EmailCap" />
+     </classes>
+  </test>
+  <test verbose="2" name="MotelyFool AU Create order">
+    <classes>
+      <class name="com.fool.au.order.Createorder" />
+    </classes>
+  </test>  
+ <test verbose="2" name="MotelyFool Canada Create and Verify New Post Test">
+    <classes>
+      <class name="com.fool.ca.createpost.CreatePost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Canada Edit and Verify Post Test">
+    <classes>
+      <class name="com.fool.ca.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Canada Delete and Verify Post Test">
+    <classes>
+      <class name="com.fool.ca.deletepost.DeletePost" />
+    </classes>
+  </test>  
+  
+  <test verbose="2" name="MotelyFool Canada Ecap Test">
+    <classes>
+      <class name="com.fool.ca.ecap.EmailCap" />
+     </classes>
+  </test>
+
+<test verbose="2" name="MotelyFool Canada Stock AdvisorTest">
+    <classes>
+      <class name="com.fool.ca.stockdvisor.Stockadvisor"/>
+     </classes>
+  </test>
+
+<test verbose="2" name="MotelyFool Canada Create OrderTest">
+    <classes>
+      <class name="com.fool.ca.order.Createorder"/>
+     </classes>
+  </test>
+
+<test verbose="2" name="MotelyFool Singapore Create post Test">
+    <classes>
+      <class name="com.fool.sg.createpost.CreatePost"/>
+     </classes>
+  </test>
+<test verbose="2" name="MotelyFool Singapore Edit post Test">
+    <classes>
+      <class name="com.fool.sg.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Singapore Delete post Test">
+    <classes>
+      <class name="com.fool.sg.deletepost.DeletePost" />
+    </classes>
+  </test>  
+<test verbose="2" name="MotelyFool Singapore Ecap Test">
+    <classes>
+      <class name="com.fool.sg.ecap.EmailCap" />
+     </classes>
+</test>  
+<test verbose="2" name="MotelyFool Germany Ecap Test">
+    <classes>
+      <class name="com.fool.GR.ecap.EmailCap" />
+     </classes>
+</test>
+<test verbose="2" name="MotelyFool United Kingdom Ecap Test">
+    <classes>
+      <class name="com.fool.UK.ecap.EmailCap" />
+     </classes>
+</test>
+<test verbose="2" name="MotelyFool Create and Verify post Test">
+    <classes>
+      <class name="com.fool.UK.createpost.CreatePost" />
+     </classes>
+</test>
+<test verbose="2" name="MotelyFool Edit and Verify post Test">
+    <classes>
+      <class name="com.fool.UK.editpost.EditPost" />
+     </classes>
+</test>
+<test verbose="2" name="MotelyFool Delete and Verify post Test">
+    <classes>
+      <class name="com.fool.UK.deletepost.DeletePost" />
+     </classes>
+</test>
+</suite>
+  
+  
+  

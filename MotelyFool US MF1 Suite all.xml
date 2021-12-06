@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool US MF1 Suite">
+  <test verbose="2" name="MF1 Everlasting Column Header Verification">
+    <classes>
+      <class name="com.fool.us.evlstks.Evelststkschrome" />
+    </classes>
+  </test>
+
+<test verbose="2" name="MF1 Everlasting Filter Verification">
+    <classes>
+      <class name="com.fool.us.evlstks.EVLFilterchrome" />
+    </classes>
+  </test>
+
+  <test verbose="2" name="IQ Screener Verifiction Suite">
+    <classes>
+      <class name="com.fool.us.IQScreener.IQScreenerchrome" />
+    </classes>
+  </test>
+
+<test verbose="2" name="IQ Screener Filter Verifiction Suite">
+    <classes>
+      <class name="com.fool.us.IQScreener.IQScreenerFilterchrome" />
+    </classes>
+  </test>
+
+<test verbose="2" name="MF1 Date Verifiction Suite">
+    <classes>
+      <class name="com.fool.us.evlstks.Dateverify" />
+    </classes>
+  </test>
+
+<test verbose="2" name="MF1 Sections Verification Suite">
+    <classes>
+      <class name="com.fool.us.evlstkoverview.evloverviewchrome" />
+    </classes>
+  </test>
+ </suite>
+  
+  
+  

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MotelyFool CA TestSuite]">
+  <test name="MotelyFool Canada Stock AdvisorTest(failed)">
+    <classes>
+      <class name="com.fool.ca.stockdvisor.Stockadvisor">
+        <methods>
+          <include name="emailCapCAStockadvisorfrm"/>
+        </methods>
+      </class> <!-- com.fool.ca.stockdvisor.Stockadvisor -->
+    </classes>
+  </test> <!-- MotelyFool Canada Stock AdvisorTest(failed) -->
+  <test name="MotelyFool Canada Create OrderTest(failed)">
+    <classes>
+      <class name="com.fool.ca.order.Createorder">
+        <methods>
+          <include name="emailCapCAHome"/>
+        </methods>
+      </class> <!-- com.fool.ca.order.Createorder -->
+    </classes>
+  </test> <!-- MotelyFool Canada Create OrderTest(failed) -->
+</suite> <!-- Failed suite [MotelyFool CA TestSuite] -->

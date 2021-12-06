@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool CA TestSuite">
+   
+ <test verbose="2" name="MotelyFool Canada Create and Verify New Post Test">
+    <classes>
+      <class name="com.fool.ca.createpost.CreatePost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Canada Edit and Verify Post Test">
+    <classes>
+      <class name="com.fool.ca.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Canada Delete and Verify Post Test">
+    <classes>
+      <class name="com.fool.ca.deletepost.DeletePost" />
+    </classes>
+  </test>  
+  
+  <test verbose="2" name="MotelyFool Canada Ecap Test">
+    <classes>
+      <class name="com.fool.ca.ecap.EmailCap" />
+     </classes>
+  </test>
+
+<test verbose="2" name="MotelyFool Canada Stock AdvisorTest">
+    <classes>
+      <class name="com.fool.ca.stockdvisor.Stockadvisor"/>
+     </classes>
+  </test>
+
+<test verbose="2" name="MotelyFool Canada Create OrderTest">
+    <classes>
+      <class name="com.fool.ca.order.Createorder"/>
+     </classes>
+  </test>
+
+</suite>
+  
+  
+  

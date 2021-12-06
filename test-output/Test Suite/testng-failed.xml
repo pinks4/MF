@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test name="MotelyFool create Test(failed)">
+    <classes>
+      <class name="com.fool.sg.createpost.CreatePost">
+        <methods>
+          <include name="messagePost"/>
+        </methods>
+      </class> <!-- com.fool.sg.createpost.CreatePost -->
+    </classes>
+  </test> <!-- MotelyFool create Test(failed) -->
+  <test name="MotelyFool Edit(failed)">
+    <classes>
+      <class name="com.fool.sg.editpost.EditPost">
+        <methods>
+          <include name="editingCreatedPost"/>
+        </methods>
+      </class> <!-- com.fool.sg.editpost.EditPost -->
+    </classes>
+  </test> <!-- MotelyFool Edit(failed) -->
+  <test name="MotelyFool Delete(failed)">
+    <classes>
+      <class name="com.fool.sg.deletepost.DeletePost">
+        <methods>
+          <include name="deleteCreatedPost"/>
+        </methods>
+      </class> <!-- com.fool.sg.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Delete(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

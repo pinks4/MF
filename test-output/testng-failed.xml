@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MotelyFool TestSuite]">
+  <test name="MotelyFool Australia Create and Verify New Post Test(failed)">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+          <include name="messagePost"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Australia Create and Verify New Post Test(failed) -->
+  <test name="MotelyFool Australia Edit and Verify Post Test(failed)">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="editingPost"/>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Australia Edit and Verify Post Test(failed) -->
+  <test name="MotelyFool Australia Ecap Test(failed)">
+    <classes>
+      <class name="com.fool.au.ecap.EmailCap">
+        <methods>
+          <include name="emailCapAUHomepage"/>
+        </methods>
+      </class> <!-- com.fool.au.ecap.EmailCap -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Australia Ecap Test(failed) -->
+  <test name="MotelyFool Canada Create and Verify New Post Test(failed)">
+    <classes>
+      <class name="com.fool.ca.createpost.CreatePost">
+        <methods>
+          <include name="messagePost"/>
+        </methods>
+      </class> <!-- com.fool.ca.createpost.CreatePost -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Canada Create and Verify New Post Test(failed) -->
+  <test name="MotelyFool Canada Ecap Test(failed)">
+    <classes>
+      <class name="com.fool.ca.ecap.EmailCap">
+        <methods>
+          <include name="emailCapCAsplrep"/>
+          <include name="emailCapCAHome"/>
+        </methods>
+      </class> <!-- com.fool.ca.ecap.EmailCap -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Canada Ecap Test(failed) -->
+  <test name="MotelyFool Canada Stock AdvisorTest(failed)">
+    <classes>
+      <class name="com.fool.ca.stockdvisor.Stockadvisor">
+        <methods>
+          <include name="emailCapCAStockadvisorfrm"/>
+        </methods>
+      </class> <!-- com.fool.ca.stockdvisor.Stockadvisor -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Canada Stock AdvisorTest(failed) -->
+  <test name="MotelyFool Germany Ecap Test(failed)">
+    <classes>
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.GR.ecap.EmailCap">
+        <methods>
+          <include name="emailCapGRHomepage"/>
+        </methods>
+      </class> <!-- com.fool.GR.ecap.EmailCap -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Germany Ecap Test(failed) -->
+  <test name="MotelyFool United Kingdom Ecap Test(failed)">
+    <classes>
+      <class name="com.fool.UK.ecap.EmailCap">
+        <methods>
+          <include name="emailCapGRHomepage"/>
+        </methods>
+      </class> <!-- com.fool.UK.ecap.EmailCap -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool United Kingdom Ecap Test(failed) -->
+  <test name="MotelyFool Create and Verify post Test(failed)">
+    <classes>
+      <class name="com.fool.UK.createpost.CreatePost">
+        <methods>
+          <include name="messagePost"/>
+        </methods>
+      </class> <!-- com.fool.UK.createpost.CreatePost -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Create and Verify post Test(failed) -->
+  <test name="MotelyFool Delete and Verify post Test(failed)">
+    <classes>
+      <class name="com.fool.UK.deletepost.DeletePost">
+        <methods>
+          <include name="deleteCreatedPost"/>
+        </methods>
+      </class> <!-- com.fool.UK.deletepost.DeletePost -->
+      <class name="com.fool.au.editpost.EditPost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.editpost.EditPost -->
+      <class name="com.fool.au.createpost.CreatePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.createpost.CreatePost -->
+      <class name="com.fool.au.deletepost.DeletePost">
+        <methods>
+          <include name="loginFool"/>
+        </methods>
+      </class> <!-- com.fool.au.deletepost.DeletePost -->
+    </classes>
+  </test> <!-- MotelyFool Delete and Verify post Test(failed) -->
+</suite> <!-- Failed suite [MotelyFool TestSuite] -->

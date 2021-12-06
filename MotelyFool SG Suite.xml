@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MotelyFool SG TestSuite">
+   
+
+<test verbose="2" name="MotelyFool Singapore Create and Verify postTest">
+    <classes>
+      <class name="com.fool.sg.createpost.CreatePost"/>
+     </classes>
+  </test>
+<test verbose="2" name="MotelyFool Edit">
+    <classes>
+      <class name="com.fool.sg.editpost.EditPost" />
+    </classes>
+  </test>
+  <test verbose="2" name="MotelyFool Delete">
+    <classes>
+      <class name="com.fool.sg.deletepost.DeletePost" />
+    </classes>
+  </test>  
+<test verbose="2" name="MotelyFool Singapore Ecap Test">
+    <classes>
+      <class name="com.fool.sg.ecap.EmailCap" />
+     </classes>
+  </test>
+</suite>
+  
+  
+  
